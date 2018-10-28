@@ -5,3 +5,7 @@ The ﬁle ex1data1.txt contains the dataset for our linear regression problem. T
 Here batch gradient descent algorithm is used to train the sought hypothesis.
 Learning rate is set to 0.01 after ensuring that the cost function is converging.
 Do not keep learning rate to be as high as 0.1.
+
+Open main.m file to start.
+
+The model is trained on MATLAB2015
